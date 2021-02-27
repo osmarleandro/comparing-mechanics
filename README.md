@@ -1,1 +1,1 @@
-# comparing-mechanics-rdt-ides
+# Comparing the Refactoring Mechanics

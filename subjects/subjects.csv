@@ -1,0 +1,5 @@
+Subject,Commits,LOC,Watches,Stars,Forks,Branches,Contributors,Releases,Github URL,Remote Repo
+RefactoringMiner,1035,127400,22,173,95,2,12,7,https://github.com/tsantalis/RefactoringMiner.git,https://github.com/osmarleandro/refactoring-subject
+google-maps-services-java,1055,38200,116,1400,856,9,90,55,https://github.com/googlemaps/google-maps-services-java.git,https://github.com/osmarleandro/google-maps-services-java
+spring-boot,10799,674100,9657,9657,9149,9,320,0,https://github.com/spring-projects/spring-boot.git,https://github.com/osmarleandro/spring-boot
+gobblin,5697,454100,173,1883,681,17,78,23,https://github.com/linkedin/gobblin,https://github.com/osmarleandro/incubator-gobblin
