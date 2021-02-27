@@ -1,37 +1,37 @@
-Commit,Tool,Type,Status,Link
-https://github.com/osmarleandro/google-maps-services-java/commit/8336ed8,RefactoringMiner,Extract Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/119
-https://github.com/osmarleandro/google-maps-services-java/commit/48915a5,RefactoringMiner,Extract Method,Not a Bug,https://github.com/tsantalis/RefactoringMiner/issues/120
-https://github.com/osmarleandro/google-maps-services-java/commit/9d23ddb,RefactoringMiner,Inline Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/121
-https://github.com/osmarleandro/google-maps-services-java/commit/643d5c1,RefactoringMiner,Inline Method,Not a Bug,https://github.com/tsantalis/RefactoringMiner/issues/122
-https://github.com/osmarleandro/spring-boot/commit/21f4ef7,RefactoringMiner,Move Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/133
-https://github.com/osmarleandro/google-maps-services-java/commit/1415e90,RefactoringMiner,Push Down Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/137
-https://github.com/osmarleandro/spring-boot/commit/710ca16,RefactoringMiner,Push Down Method,Duplicated,https://github.com/tsantalis/RefactoringMiner/issues/138
-https://github.com/osmarleandro/RefactoringMiner/commit/4c4a037,RefactoringMiner,Rename Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/139
-https://github.com/osmarleandro/RefactoringMiner/commit/ad4129d,RefactoringMiner,Rename Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/140
-https://github.com/osmarleandro/RefactoringMiner/commit/837c8af,RefactoringMiner,Rename Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/141
-https://github.com/osmarleandro/RefactoringMiner/commit/f314346,RefactoringMiner,Move Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/143
-https://github.com/osmarleandro/RefactoringMiner/commit/76626f3,RefactoringMiner,Move Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/145
-https://github.com/osmarleandro/google-maps-services-java/commit/84d5e9a,RefactoringMiner,Extract Interface,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/146
-https://github.com/osmarleandro/spring-boot/commit/bd0ec2c,RefactoringMiner,Extract Interface,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/147
-https://github.com/osmarleandro/RefactoringMiner/commit/c7b0409,RefactoringMiner,Inline Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/150
-https://github.com/osmarleandro/RefactoringMiner/commit/ae1fda1,RefactoringMiner,Pull Up Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/151
-https://github.com/osmarleandro/RefactoringMiner/commit/6c42a27,RefactoringMiner,Move Method,Not a Bug,https://github.com/tsantalis/RefactoringMiner/issues/153
-https://github.com/osmarleandro/incubator-gobblin/commit/959d461,RefactoringMiner,Inline Method,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/158
-https://github.com/osmarleandro/spring-boot/commit/66aadc6,RefactoringMiner,Extract Method,FIxed,https://github.com/tsantalis/RefactoringMiner/issues/159
-,,,,
-,,,,
-,,,,
-https://github.com/osmarleandro/google-maps-services-java/commit/12a03c9,RefDiff,Move Method,Fixed,https://github.com/aserg-ufmg/RefDiff/issues/13
-https://github.com/osmarleandro/google-maps-services-java/commit/d07ed8e,RefDiff,Move Method,Duplicated,https://github.com/aserg-ufmg/RefDiff/issues/14
-https://github.com/osmarleandro/spring-boot/commit/0022080,RefDiff,Move Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/15
-https://github.com/osmarleandro/spring-boot/commit/2787fad,RefDiff,Push Down Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/16
-https://github.com/osmarleandro/RefactoringMiner/commit/d67f4b4,RefDiff,Rename Class,Open,https://github.com/aserg-ufmg/RefDiff/issues/17
-https://github.com/osmarleandro/RefactoringMiner/commit/cf32531,RefDiff,Rename Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/18
-https://github.com/osmarleandro/RefactoringMiner/commit/38b41e6,RefDiff,Rename Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/19
-https://github.com/osmarleandro/RefactoringMiner/commit/c088784,RefDiff,Rename Class,Open,https://github.com/aserg-ufmg/RefDiff/issues/20
-https://github.com/osmarleandro/RefactoringMiner/commit/6c42a27,RefDiff,Move Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/21
-https://github.com/osmarleandro/incubator-gobblin/commit/26c45ca,RefDiff,Extract Interface,Open,https://github.com/aserg-ufmg/RefDiff/issues/22
-https://github.com/osmarleandro/RefactoringMiner/commit/00d45e1,RefDiff,Rename Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/23
-https://github.com/osmarleandro/incubator-gobblin/commit/8353b60,RefDiff,Push Down Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/24
-https://github.com/osmarleandro/spring-boot/commit/9576873,RefDiff,Inline Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/25
-https://github.com/osmarleandro/google-maps-services-java/commit/982b095,RefDiff,Extract Method,Open,https://github.com/aserg-ufmg/RefDiff/issues/26
+Commit,Tool,Type,Category,Status,Link
+https://github.com/osmarleandro/google-maps-services-java/commit/8336ed8,RefactoringMiner,Extract Method,Not Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/119
+https://github.com/osmarleandro/google-maps-services-java/commit/48915a5,RefactoringMiner,Extract Method,Partially Aligned,Not a Bug,https://github.com/tsantalis/RefactoringMiner/issues/120
+https://github.com/osmarleandro/google-maps-services-java/commit/9d23ddb,RefactoringMiner,Inline Method,Different,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/121
+https://github.com/osmarleandro/google-maps-services-java/commit/643d5c1,RefactoringMiner,Inline Method,Partially Aligned,Not a Bug,https://github.com/tsantalis/RefactoringMiner/issues/122
+https://github.com/osmarleandro/spring-boot/commit/21f4ef7,RefactoringMiner,Move Method,Partially Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/133
+https://github.com/osmarleandro/google-maps-services-java/commit/1415e90,RefactoringMiner,Push Down Method,Not Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/137
+https://github.com/osmarleandro/spring-boot/commit/710ca16,RefactoringMiner,Push Down Method,Not Aligned,Duplicated,https://github.com/tsantalis/RefactoringMiner/issues/138
+https://github.com/osmarleandro/RefactoringMiner/commit/4c4a037,RefactoringMiner,Rename Method,Partially Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/139
+https://github.com/osmarleandro/RefactoringMiner/commit/ad4129d,RefactoringMiner,Rename Method,Not Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/140
+https://github.com/osmarleandro/RefactoringMiner/commit/837c8af,RefactoringMiner,Rename Method,Partially Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/141
+https://github.com/osmarleandro/RefactoringMiner/commit/f314346,RefactoringMiner,Move Method,Partially Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/143
+https://github.com/osmarleandro/RefactoringMiner/commit/76626f3,RefactoringMiner,Move Method,Not Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/145
+https://github.com/osmarleandro/google-maps-services-java/commit/84d5e9a,RefactoringMiner,Extract Interface,Different,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/146
+https://github.com/osmarleandro/spring-boot/commit/bd0ec2c,RefactoringMiner,Extract Interface,Partially Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/147
+https://github.com/osmarleandro/RefactoringMiner/commit/c7b0409,RefactoringMiner,Inline Method,Not Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/150
+https://github.com/osmarleandro/RefactoringMiner/commit/ae1fda1,RefactoringMiner,Pull Up Method,Not Aligned,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/151
+https://github.com/osmarleandro/RefactoringMiner/commit/6c42a27,RefactoringMiner,Move Method,Different,Not a Bug,https://github.com/tsantalis/RefactoringMiner/issues/153
+https://github.com/osmarleandro/incubator-gobblin/commit/959d461,RefactoringMiner,Inline Method,Different,Fixed,https://github.com/tsantalis/RefactoringMiner/issues/158
+https://github.com/osmarleandro/spring-boot/commit/66aadc6,RefactoringMiner,Extract Method,Not Aligned,FIxed,https://github.com/tsantalis/RefactoringMiner/issues/159
+,,,,,
+,,,,,
+,,,,,
+https://github.com/osmarleandro/google-maps-services-java/commit/12a03c9,RefDiff,Move Method,Not Aligned,Fixed,https://github.com/aserg-ufmg/RefDiff/issues/13
+https://github.com/osmarleandro/google-maps-services-java/commit/d07ed8e,RefDiff,Move Method,Different,Duplicated,https://github.com/aserg-ufmg/RefDiff/issues/14
+https://github.com/osmarleandro/spring-boot/commit/0022080,RefDiff,Move Method,Different,Open,https://github.com/aserg-ufmg/RefDiff/issues/15
+https://github.com/osmarleandro/spring-boot/commit/2787fad,RefDiff,Push Down Method,Different,Open,https://github.com/aserg-ufmg/RefDiff/issues/16
+https://github.com/osmarleandro/RefactoringMiner/commit/d67f4b4,RefDiff,Rename Class,Different,Open,https://github.com/aserg-ufmg/RefDiff/issues/17
+https://github.com/osmarleandro/RefactoringMiner/commit/cf32531,RefDiff,Rename Method,Not Aligned,Open,https://github.com/aserg-ufmg/RefDiff/issues/18
+https://github.com/osmarleandro/RefactoringMiner/commit/38b41e6,RefDiff,Rename Method,Different,Open,https://github.com/aserg-ufmg/RefDiff/issues/19
+https://github.com/osmarleandro/RefactoringMiner/commit/c088784,RefDiff,Rename Class,Partially Aligned,Open,https://github.com/aserg-ufmg/RefDiff/issues/20
+https://github.com/osmarleandro/RefactoringMiner/commit/6c42a27,RefDiff,Move Method,Different,Open,https://github.com/aserg-ufmg/RefDiff/issues/21
+https://github.com/osmarleandro/incubator-gobblin/commit/26c45ca,RefDiff,Extract Interface,Partially Aligned,Open,https://github.com/aserg-ufmg/RefDiff/issues/22
+https://github.com/osmarleandro/RefactoringMiner/commit/00d45e1,RefDiff,Rename Method,Different,Open,https://github.com/aserg-ufmg/RefDiff/issues/23
+https://github.com/osmarleandro/incubator-gobblin/commit/8353b60,RefDiff,Push Down Method,Partially Aligned,Open,https://github.com/aserg-ufmg/RefDiff/issues/24
+https://github.com/osmarleandro/spring-boot/commit/9576873,RefDiff,Inline Method,Not Aligned,Open,https://github.com/aserg-ufmg/RefDiff/issues/25
+https://github.com/osmarleandro/google-maps-services-java/commit/982b095,RefDiff,Extract Method,Not Aligned,Open,https://github.com/aserg-ufmg/RefDiff/issues/26
