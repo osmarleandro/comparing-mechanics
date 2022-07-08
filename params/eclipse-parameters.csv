@@ -1,0 +1,20 @@
+"Refactoring","Modified Parameters","Default Parameters"
+"Extract Interface","Members to declare in the interface: select all;
+Interface name: class name with ‘I’ prefix.","Use the extracted interface type where possible: checked;"
+"Extract Method","Selection: see Algorithm 1.","Method name: extracted;
+Access modifiers: private;
+Declare thrown runtime exceptions: unchecked;
+Generate method comment: unchecked;"
+"Inline Method","Inline a random method.","Delete method declaration: checked"
+"Move Method","New target for the method: the first type from the list.","New method name: unchanged;
+Keep original method as delegate to moved method: unchecked;"
+"Pull Up Method","Specify actions for members: check a random method.","Select destination type: unchanged;
+Use the destination type where possible: checked;
+Use the destination type in ’instanceof’ expressions: unchecked;"
+"Push Down Method","Specify actions for members: check a random method.","-"
+"Rename Class","New name: old class name with a suffix.","Update references: checked;
+Update similarly named variables and methods: unchecked;
+Update textual occurrences in comments and strings: unchecked;
+Update fully qualified names in non-Java text files: unchecked."
+"Rename Method","New name: old method name with a suffix.","Update references: checked;
+Keep original method as delegate to renamed method: unchecked."
